@@ -1,0 +1,38 @@
+.container{
+    background-color: gray;
+}
+header{
+    background-color: gray;
+}
+.branco{
+    text-align: center;
+    color: white;
+    padding: 100px;
+}
+.cinza{
+    background-color: gray;
+    border-left: 15px solid gray;
+    border-right: 15px solid gray;
+
+  
+}
+.direita{
+    text-align: right;
+}
+
+.rodape{
+    padding:20px;
+    color: white;
+    
+
+}
+footer{
+    padding: 20px;
+    color: white;
+    background-color: gray;
+}
+.right{
+    display:inline;
+    margin-left: 68%;
+    
+}
